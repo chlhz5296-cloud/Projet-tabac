@@ -64,10 +64,10 @@ export default function CreateAtelierFarharHachedPage() {
     <div className="p-6">
       <div className="mb-6">
         <h1 className="text-2xl font-bold text-gray-900 mb-2">
-          Créer Nouvelle Entrée - Atelier Farhar Hached
+          Créer Nouvelle Entrée - Atelier Farhat Hached
         </h1>
         <p className="text-gray-600">
-          Saisie des données de production pour l'Atelier Farhar Hached
+          Saisie des données de production pour l'Atelier Farhat Hached
         </p>
       </div>
 

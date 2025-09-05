@@ -66,10 +66,10 @@ export default function AtelierFarharHachedPage() {
       <div className="mb-6 flex justify-between items-start">
         <div>
           <h1 className="text-2xl font-bold text-gray-900 mb-2">
-            Atelier Farhar Hached
+            Atelier Farhat Hached
           </h1>
           <p className="text-gray-600">
-            Gestion et monitoring de l'Atelier Farhar Hached - Zone Spécialisée
+            Gestion et monitoring de l'Atelier Farhat Hached - Usine A 
           </p>
         </div>
         <div className="flex gap-2">

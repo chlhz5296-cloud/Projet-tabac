@@ -68,7 +68,7 @@ export default function LoginPage() {
             </div>
             
             <h1 className="text-2xl font-bold text-gray-900 mb-2">
-           Systeme intégré de gestion des déchets (SIGD-RNTA)
+           Système intégré de gestion des déchets de tabac  (SIGD-RNTA)
             </h1>
          
           </div>
@@ -190,7 +190,7 @@ export default function LoginPage() {
         />
         <div className="absolute inset-0 z-20 flex items-center justify-center">
           <div className="text-center text-white p-8">
-            <h2 className="text-4xl font-bold mb-4">Régle Nationale des tabacs et des Allumettes</h2>
+            <h2 className="text-4xl font-bold mb-4">Règie Nationale des tabacs et des Allumettes</h2>
           
           </div>
         </div>

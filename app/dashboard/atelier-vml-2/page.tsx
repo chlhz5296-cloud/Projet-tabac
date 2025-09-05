@@ -14,7 +14,7 @@ export default function AtelierVML2Page() {
             Atelier VML 2
           </h1>
           <p className="text-gray-600">
-            Gestion et monitoring de l'Atelier VML 2 - Zone B
+            Gestion et monitoring de l'Atelier VML 2 - Usine B
           </p>
         </div>
         <Button 

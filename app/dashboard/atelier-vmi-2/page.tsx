@@ -69,7 +69,7 @@ export default function AtelierVMI2Page() {
             Atelier VMI 2
           </h1>
           <p className="text-gray-600">
-            Gestion et monitoring de l'Atelier VMI 2 - Zone A
+            Gestion et monitoring de l'Atelier VMI 2 - Usine A
           </p>
         </div>
         <div className="flex gap-2">
